@@ -7,11 +7,6 @@ Add Email medium to Notifications for Meteor JS
 
 Sorry for the lazy README, will fix when things are more stable.
 
-`$ meteor add kestanous:notifications`
-
-`$ meteor add kestanous:notifications-email`
-
-
 ```coffee
 Notifications.addEventType 'someNotificaiton',
   media: [
