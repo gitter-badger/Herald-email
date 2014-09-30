@@ -1,7 +1,8 @@
 Package.describe({
   summary: "Add Email medium to Notifications",
   version: "0.1.0",
-  git: " \* Fill me in! *\ "
+  git: "https://github.com/Meteor-Reaction/notifications-email.git"
+  name: "kestanous:notifications-email"
 });
 
 Package.onUse(function(api) {
