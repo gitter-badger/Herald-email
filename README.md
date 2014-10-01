@@ -6,13 +6,16 @@ Add Email medium to [Notifications](https://github.com/Meteor-Reaction/notificat
 ## Basic usage (may change)
 
 ```js
-Notifications.addCourier 'someNotificaiton',
-  media: email: {
-    emailRunner: function (user) { 
-      //this is where you fire off emails 
-      //its not much yet but its a good start.
+Notifications.addCourier('someNotificaiton', {
+  media: {
+    email: {
+      emailRunner: function (user) { 
+        //this is where you fire off emails 
+        //its not much yet but its a good start.
+      }
     }
   }
+});
 ```
 
 #### EmailRunner
