@@ -1,7 +1,7 @@
 notifications-email
 ===================
 
-Add Email medium to [Harold](https://github.com/Meteor-Reaction/Harold) for Meteor JS
+Add Email medium to [Herald](https://github.com/Meteor-Reaction/Herald) for Meteor JS
 
 ## Basic usage (may change)
 
