@@ -1,7 +1,12 @@
 `Last updated: 2014-10-01`
 
-## v0.3.0
+## v0.4.0
+  * set the runner where property
+  * requires Herald version with breaking change (v0.8.0)
+
+## v0.3.1
   * Switched to new runner API
+  * v0.3.0 skipped by accident
 
 ## v0.2.0
  * Namespace change: Notifications -> Herald
