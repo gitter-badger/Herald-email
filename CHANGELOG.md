@@ -1,5 +1,8 @@
 `Last updated: 2014-10-01`
 
+## v0.3.0
+  * Switched to new runner API
+
 ## v0.2.0
  * Namespace change: Notifications -> Herald
    * Notifications aliased to Herald in master package
