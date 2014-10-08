@@ -1,5 +1,6 @@
 notifications-email
 ===================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/Meteor-Reaction/Herald-email?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Add Email medium to [Herald](https://github.com/Meteor-Reaction/Herald) for Meteor JS
 
